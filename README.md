@@ -104,7 +104,6 @@
 
 ## 资源使用与数据功耗图
 
-![single CPU  (30MHz)](https://gitee.com/JiangChenyang/typora_md_images/raw/master//single%20CPU%20%20(30MHz).png)
+![single CPU  (30MHz)](https://gitee.com/JiangChenyang/typora_md_images/raw/master/single%20CPU%20%20(30MHz).png)
 
-![pipline CPU (50MHz)](https://gitee.com/JiangChenyang/typora_md_images/raw/master//pipline%20CPU%20(50MHz).png)
-
+![pipline CPU (50MHz)](https://gitee.com/JiangChenyang/typora_md_images/raw/master/pipline%20CPU%20(50MHz).png)
